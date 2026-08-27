@@ -55,16 +55,6 @@ This pipeline processes historical transaction data of over **138,000 sales reco
 
 ---
 
-## 📁 Repository Structure
-
-```text
-├── 23f3004165-notebook-2026t2 (1).ipynb   # Cleaned, optimized project notebook
-├── README.md                              # Project documentation and summary
-└── .gitignore                             # Prevents massive datasets from uploading
-```
-
----
-
 ## 💻 How to Run the Project
 
 ### Prerequisites
